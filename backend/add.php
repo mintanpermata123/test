@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <a href="index.php">kembali</a>
+    <a href="index.php">kembalii</a>
     <br/><br/>
     
     <!--ini form tambah data-->

@@ -1,4 +1,5 @@
 <?php
+	//kukasikomen
 	//1. Waktu awal proses
 	$waktuAwal = microtime(true);
 	echo "<br>Waktu awal proses :".$waktuAwal;
